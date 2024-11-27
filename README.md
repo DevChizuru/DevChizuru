@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Lynnn from Malaysia<br>I'm currently learning Programming Language and Reverse Engineering
+I'm Lynnn from Malaysia<br>I'm currently learning Reverse Engineering
 
 
 # 💻 Tech Stack:
